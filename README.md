@@ -1,5 +1,5 @@
-👋 Hi, I’m @LeslieTheMagicStone
-I’m interested in game development
+- 👋 Hi, I’m @LeslieTheMagicStone
+- I’m interested in game development
 
 <!---
 LeslieTheMagicStone/LeslieTheMagicStone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
